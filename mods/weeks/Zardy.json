@@ -1,0 +1,16 @@
+{
+    "difficulties": "",
+    "category": "Zardy",
+    "hideFreeplay": false,
+    "startUnlocked": true,
+    "songs": [
+        [
+            "foolhardy",
+            "normal"
+        ],
+        [
+            "bushwhack",
+            "normal"
+        ]
+    ]
+}

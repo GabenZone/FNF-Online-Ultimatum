@@ -1,0 +1,20 @@
+{
+    "difficulties": "",
+    "category": "Date Week",
+    "hideFreeplay": false,
+    "startUnlocked": true,
+    "songs": [
+        [
+            "whitroll",
+            "easy,normal,hard"
+        ],
+        [
+            "perfume",
+            "easy,normal,hard"
+        ],
+        [
+            "heartbass",
+            "easy,normal,hard"
+        ]
+    ]
+}
