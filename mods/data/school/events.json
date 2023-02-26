@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				41111.1111111111,
+				[
+					[
+						"Change Character",
+						"2",
+						"no"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-rainbow"
+					],
+					[
+						"Change Character",
+						"1",
+						"pico-rainbow"
+					]
+				]
+			],
+			[
+				65185.1851851852,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-shaded-w3"
+					],
+					[
+						"Change Character",
+						"1",
+						"pico"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-shaded-w3"
+					]
+				]
+			]
+		]
+	}
+}

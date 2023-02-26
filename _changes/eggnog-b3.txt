@@ -1,0 +1,9 @@
+mods/data/eggnog-b3/eggnog-b3-easy.json
+mods/data/eggnog-b3/eggnog-b3-getreal.json
+mods/data/eggnog-b3/eggnog-b3-hard.json
+mods/data/eggnog-b3/eggnog-b3.json
+mods/data/eggnog-b3/events.json
+mods/songs/eggnog-b3/Voices.ogg
+mods/songs/eggnog-b3/Inst.ogg
+mods/songs/eggnog-b3/voices.ogg
+mods/songs/eggnog-b3/inst.ogg

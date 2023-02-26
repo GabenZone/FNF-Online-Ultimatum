@@ -1,0 +1,5 @@
+mods/data/menyoo/menyoo.json
+mods/songs/menyoo/Voices.ogg
+mods/songs/menyoo/Inst.ogg
+mods/songs/menyoo/voices.ogg
+mods/songs/menyoo/inst.ogg

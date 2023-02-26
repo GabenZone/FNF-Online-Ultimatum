@@ -1,0 +1,8 @@
+mods/data/fang/fang-easy.json
+mods/data/fang/fang-getreal.json
+mods/data/fang/fang-hard.json
+mods/data/fang/fang.json
+mods/songs/fang/Voices.ogg
+mods/songs/fang/Inst.ogg
+mods/songs/fang/voices.ogg
+mods/songs/fang/inst.ogg

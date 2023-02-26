@@ -1,0 +1,9 @@
+mods/data/nom/events.json
+mods/data/nom/nom-easy.json
+mods/data/nom/nom-getreal.json
+mods/data/nom/nom-hard.json
+mods/data/nom/nom.json
+mods/songs/nom/Voices.ogg
+mods/songs/nom/Inst.ogg
+mods/songs/nom/voices.ogg
+mods/songs/nom/inst.ogg

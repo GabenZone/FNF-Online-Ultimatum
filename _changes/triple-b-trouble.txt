@@ -1,0 +1,8 @@
+mods/data/triple-b-trouble/events.json
+mods/data/triple-b-trouble/triple-b-trouble-getreal.json
+mods/data/triple-b-trouble/triple-b-trouble-hard.json
+mods/data/triple-b-trouble/triple-b-trouble.json
+mods/songs/triple-b-trouble/Voices.ogg
+mods/songs/triple-b-trouble/Inst.ogg
+mods/songs/triple-b-trouble/voices.ogg
+mods/songs/triple-b-trouble/inst.ogg

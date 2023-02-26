@@ -1,0 +1,8 @@
+mods/data/problem/problem-easy.json
+mods/data/problem/problem-getreal.json
+mods/data/problem/problem-hard.json
+mods/data/problem/problem.json
+mods/songs/problem/Voices.ogg
+mods/songs/problem/Inst.ogg
+mods/songs/problem/voices.ogg
+mods/songs/problem/inst.ogg

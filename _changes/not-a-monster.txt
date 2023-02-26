@@ -1,0 +1,9 @@
+mods/data/not-a-monster/events.json
+mods/data/not-a-monster/not-a-monster-easy.json
+mods/data/not-a-monster/not-a-monster-getreal.json
+mods/data/not-a-monster/not-a-monster-hard.json
+mods/data/not-a-monster/not-a-monster.json
+mods/songs/not-a-monster/Voices.ogg
+mods/songs/not-a-monster/Inst.ogg
+mods/songs/not-a-monster/voices.ogg
+mods/songs/not-a-monster/inst.ogg

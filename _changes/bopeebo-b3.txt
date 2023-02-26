@@ -1,0 +1,9 @@
+mods/data/bopeebo-b3/bopeebo-b3-easy.json
+mods/data/bopeebo-b3/bopeebo-b3-getreal.json
+mods/data/bopeebo-b3/bopeebo-b3-hard.json
+mods/data/bopeebo-b3/bopeebo-b3.json
+mods/data/bopeebo-b3/events.json
+mods/songs/bopeebo-b3/Voices.ogg
+mods/songs/bopeebo-b3/Inst.ogg
+mods/songs/bopeebo-b3/voices.ogg
+mods/songs/bopeebo-b3/inst.ogg

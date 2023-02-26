@@ -1,0 +1,9 @@
+mods/data/endless-b3/endless-b3-easy.json
+mods/data/endless-b3/endless-b3-getreal.json
+mods/data/endless-b3/endless-b3-hard.json
+mods/data/endless-b3/endless-b3.json
+mods/data/endless-b3/events.json
+mods/songs/endless-b3/Voices.ogg
+mods/songs/endless-b3/Inst.ogg
+mods/songs/endless-b3/voices.ogg
+mods/songs/endless-b3/inst.ogg

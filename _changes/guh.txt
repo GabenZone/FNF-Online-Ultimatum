@@ -1,0 +1,8 @@
+mods/data/guh/guh-easy.json
+mods/data/guh/guh-getreal.json
+mods/data/guh/guh-hard.json
+mods/data/guh/guh.json
+mods/songs/guh/Voices.ogg
+mods/songs/guh/Inst.ogg
+mods/songs/guh/voices.ogg
+mods/songs/guh/inst.ogg

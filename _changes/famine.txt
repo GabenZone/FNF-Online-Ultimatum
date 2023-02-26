@@ -1,0 +1,8 @@
+mods/data/famine/famine-easy.json
+mods/data/famine/famine-getreal.json
+mods/data/famine/famine-hard.json
+mods/data/famine/famine.json
+mods/songs/famine/Voices.ogg
+mods/songs/famine/Inst.ogg
+mods/songs/famine/voices.ogg
+mods/songs/famine/inst.ogg

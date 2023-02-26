@@ -1,0 +1,8 @@
+mods/data/mia-battle/mia-battle-easy.json
+mods/data/mia-battle/mia-battle-getreal.json
+mods/data/mia-battle/mia-battle-hard.json
+mods/data/mia-battle/mia-battle.json
+mods/songs/mia-battle/Voices.ogg
+mods/songs/mia-battle/Inst.ogg
+mods/songs/mia-battle/voices.ogg
+mods/songs/mia-battle/inst.ogg

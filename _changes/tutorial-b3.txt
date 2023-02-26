@@ -1,0 +1,9 @@
+mods/data/tutorial-b3/events.json
+mods/data/tutorial-b3/tutorial-b3-easy.json
+mods/data/tutorial-b3/tutorial-b3-getreal.json
+mods/data/tutorial-b3/tutorial-b3-hard.json
+mods/data/tutorial-b3/tutorial-b3.json
+mods/songs/tutorial-b3/Voices.ogg
+mods/songs/tutorial-b3/Inst.ogg
+mods/songs/tutorial-b3/voices.ogg
+mods/songs/tutorial-b3/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/f-u/events.json
+mods/data/f-u/f-u-easy.json
+mods/data/f-u/f-u-getreal.json
+mods/data/f-u/f-u-hard.json
+mods/data/f-u/f-u.json
+mods/songs/f-u/Voices.ogg
+mods/songs/f-u/Inst.ogg
+mods/songs/f-u/voices.ogg
+mods/songs/f-u/inst.ogg

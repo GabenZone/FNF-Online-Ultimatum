@@ -1,0 +1,9 @@
+mods/data/dessert/dessert-easy.json
+mods/data/dessert/dessert-getreal.json
+mods/data/dessert/dessert-hard.json
+mods/data/dessert/dessert.json
+mods/data/dessert/events.json
+mods/songs/dessert/Voices.ogg
+mods/songs/dessert/Inst.ogg
+mods/songs/dessert/voices.ogg
+mods/songs/dessert/inst.ogg

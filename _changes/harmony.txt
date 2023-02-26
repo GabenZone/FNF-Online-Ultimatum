@@ -1,0 +1,8 @@
+mods/data/harmony/harmony-easy.json
+mods/data/harmony/harmony-getreal.json
+mods/data/harmony/harmony-hard.json
+mods/data/harmony/harmony.json
+mods/songs/harmony/Voices.ogg
+mods/songs/harmony/Inst.ogg
+mods/songs/harmony/voices.ogg
+mods/songs/harmony/inst.ogg

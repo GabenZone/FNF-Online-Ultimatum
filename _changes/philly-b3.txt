@@ -1,0 +1,8 @@
+mods/data/philly-b3/philly-b3-easy.json
+mods/data/philly-b3/philly-b3-getreal.json
+mods/data/philly-b3/philly-b3-hard.json
+mods/data/philly-b3/philly-b3.json
+mods/songs/philly-b3/Voices.ogg
+mods/songs/philly-b3/Inst.ogg
+mods/songs/philly-b3/voices.ogg
+mods/songs/philly-b3/inst.ogg

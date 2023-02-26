@@ -1,0 +1,9 @@
+mods/data/school/events.json
+mods/data/school/school-easy.json
+mods/data/school/school-getreal.json
+mods/data/school/school-hard.json
+mods/data/school/school.json
+mods/songs/school/Voices.ogg
+mods/songs/school/Inst.ogg
+mods/songs/school/voices.ogg
+mods/songs/school/inst.ogg

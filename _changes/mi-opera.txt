@@ -1,0 +1,8 @@
+mods/data/mi-opera/mi-opera-easy.json
+mods/data/mi-opera/mi-opera-getreal.json
+mods/data/mi-opera/mi-opera-hard.json
+mods/data/mi-opera/mi-opera.json
+mods/songs/mi-opera/Voices.ogg
+mods/songs/mi-opera/Inst.ogg
+mods/songs/mi-opera/voices.ogg
+mods/songs/mi-opera/inst.ogg

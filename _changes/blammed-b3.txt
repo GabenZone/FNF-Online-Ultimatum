@@ -1,0 +1,9 @@
+mods/data/blammed-b3/blammed-b3-easy.json
+mods/data/blammed-b3/blammed-b3-getreal.json
+mods/data/blammed-b3/blammed-b3-hard.json
+mods/data/blammed-b3/blammed-b3.json
+mods/data/blammed-b3/events.json
+mods/songs/blammed-b3/Voices.ogg
+mods/songs/blammed-b3/Inst.ogg
+mods/songs/blammed-b3/voices.ogg
+mods/songs/blammed-b3/inst.ogg
