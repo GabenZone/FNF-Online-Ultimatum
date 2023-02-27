@@ -1,9 +1,27 @@
 mods/data/not-a-monster/events.json
+mods/data/not-a-monster/mod.txt
 mods/data/not-a-monster/not-a-monster-easy.json
 mods/data/not-a-monster/not-a-monster-getreal.json
 mods/data/not-a-monster/not-a-monster-hard.json
 mods/data/not-a-monster/not-a-monster.json
+mods/B3 Remixed/characters/bf-shaded-w2.json
+mods/B3 Remixed/characters/monster.json
+mods/B3 Remixed/characters/gf-shaded-w2.json
+mods/B3 Remixed/stages/spooky1.json
+mods/B3 Remixed/stages/spooky1.lua
+mods/B3 Remixed/images/characters/week_2_bf.png
+mods/B3 Remixed/images/characters/week_2_bf.xml
+mods/B3 Remixed/images/characters/Monster_Assets.png
+mods/B3 Remixed/images/characters/Monster_Assets.xml
+mods/B3 Remixed/images/characters/gf_week2.png
+mods/B3 Remixed/images/characters/gf_week2.xml
+mods/B3 Remixed/custom_events/karaokelyrics.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/stages/forest/sky.png
+mods/B3 Remixed/images/stages/forest/treesB.png
+mods/B3 Remixed/images/stages/forest/house.png
+mods/B3 Remixed/images/stages/forest/treesF.png
 mods/songs/not-a-monster/Voices.ogg
-mods/songs/not-a-monster/Inst.ogg
 mods/songs/not-a-monster/voices.ogg
+mods/songs/not-a-monster/Inst.ogg
 mods/songs/not-a-monster/inst.ogg

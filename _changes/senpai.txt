@@ -1,0 +1,14 @@
+mods/data/senpai/mod.txt
+mods/data/senpai/senpai-easy.json
+mods/data/senpai/senpai-hard.json
+mods/data/senpai/senpai.json
+mods/Vanilla/characters/senpai-hd.json
+mods/Vanilla/stages/schoolv1.json
+mods/Vanilla/stages/schoolv1.lua
+mods/Vanilla/images/characters/senpaiHD.png
+mods/Vanilla/images/characters/senpaiHD.xml
+mods/Vanilla/images/stages/WeebHD/Bg.png
+mods/songs/senpai/Voices.ogg
+mods/songs/senpai/voices.ogg
+mods/songs/senpai/Inst.ogg
+mods/songs/senpai/inst.ogg

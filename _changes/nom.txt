@@ -1,9 +1,34 @@
 mods/data/nom/events.json
+mods/data/nom/mod.txt
 mods/data/nom/nom-easy.json
 mods/data/nom/nom-getreal.json
 mods/data/nom/nom-hard.json
 mods/data/nom/nom.json
+mods/B3 Remixed/characters/bf-pajamas.json
+mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.png
+mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.xml
+mods/B3 Remixed/characters/p-gf-hungry-3.json
+mods/B3 Remixed/characters/pico.json
+mods/B3 Remixed/stages/room.json
+mods/B3 Remixed/stages/room.lua
+mods/B3 Remixed/images/characters/b3_gf_phase_3.png
+mods/B3 Remixed/images/characters/b3_gf_phase_3.xml
+mods/B3 Remixed/images/characters/Pico_FNF_assetss.png
+mods/B3 Remixed/images/characters/Pico_FNF_assetss.xml
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/custom_notetypes/Chomp Note.lua
+mods/B3 Remixed/custom_notetypes/Burger Note.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/halloween/room.png
+mods/B3 Remixed/images/halloween/windowcity.png
+mods/B3 Remixed/images/halloween/filter1.png
+mods/B3 Remixed/images/Chomp Note.png
+mods/B3 Remixed/images/Chomp Note.xml
+mods/B3 Remixed/images/noteskins/burgerNotes.png
+mods/B3 Remixed/images/noteskins/burgerNotes.xml
 mods/songs/nom/Voices.ogg
-mods/songs/nom/Inst.ogg
 mods/songs/nom/voices.ogg
+mods/songs/nom/Inst.ogg
 mods/songs/nom/inst.ogg

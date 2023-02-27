@@ -1,9 +1,27 @@
-mods/data/sunshine-b3/events.json
+mods/data/sunshine-b3/mod.txt
 mods/data/sunshine-b3/sunshine-b3-easy.json
 mods/data/sunshine-b3/sunshine-b3-getreal.json
 mods/data/sunshine-b3/sunshine-b3-hard.json
 mods/data/sunshine-b3/sunshine-b3.json
+mods/B3 Remixed/characters/bf.json
+mods/B3 Remixed/characters/tails.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/images/characters/BOYFRIEND.png
+mods/B3 Remixed/images/characters/BOYFRIEND.xml
+mods/B3 Remixed/images/characters/Tails_Doll.png
+mods/B3 Remixed/images/characters/Tails_Doll.xml
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/characters/tails-alt.json
+mods/B3 Remixed/images/characters/B3_Tails_Doll_Alt.png
+mods/B3 Remixed/images/characters/B3_Tails_Doll_Alt.xml
+mods/B3 Remixed/stages/sunshine.json
+mods/B3 Remixed/stages/sunshine.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/back.png
+mods/B3 Remixed/images/chandelier.png
+mods/B3 Remixed/images/text.png
 mods/songs/sunshine-b3/Voices.ogg
-mods/songs/sunshine-b3/Inst.ogg
 mods/songs/sunshine-b3/voices.ogg
+mods/songs/sunshine-b3/Inst.ogg
 mods/songs/sunshine-b3/inst.ogg

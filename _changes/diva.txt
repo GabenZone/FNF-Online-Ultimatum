@@ -2,7 +2,25 @@ mods/data/diva/diva-easy.json
 mods/data/diva/diva-getreal.json
 mods/data/diva/diva-hard.json
 mods/data/diva/diva.json
+mods/data/diva/mod.txt
+mods/B3 Remixed/characters/bf.json
+mods/B3 Remixed/characters/mia.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/miaStation.json
+mods/B3 Remixed/stages/miaStation.lua
+mods/B3 Remixed/images/characters/BOYFRIEND.png
+mods/B3 Remixed/images/characters/BOYFRIEND.xml
+mods/B3 Remixed/images/characters/Mia.png
+mods/B3 Remixed/images/characters/Mia.xml
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/characters/Mia.json
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/stages/stage/stadium.png
+mods/B3 Remixed/images/stages/stage/mia_boppers.png
+mods/B3 Remixed/images/stages/stage/mia_boppers.xml
+mods/B3 Remixed/images/stages/stage/lights.png
 mods/songs/diva/Voices.ogg
-mods/songs/diva/Inst.ogg
 mods/songs/diva/voices.ogg
+mods/songs/diva/Inst.ogg
 mods/songs/diva/inst.ogg

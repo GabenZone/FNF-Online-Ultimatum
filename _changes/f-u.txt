@@ -1,9 +1,8 @@
-mods/data/f-u/events.json
-mods/data/f-u/f-u-easy.json
-mods/data/f-u/f-u-getreal.json
-mods/data/f-u/f-u-hard.json
-mods/data/f-u/f-u.json
-mods/songs/f-u/Voices.ogg
-mods/songs/f-u/Inst.ogg
-mods/songs/f-u/voices.ogg
-mods/songs/f-u/inst.ogg
+mods/data/F-U/events.json
+mods/data/F-U/mod.txt
+mods/B3 Remixed/custom_events/karaokelyrics.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/songs/F-U/Voices.ogg
+mods/songs/F-U/voices.ogg
+mods/songs/F-U/Inst.ogg
+mods/songs/F-U/inst.ogg

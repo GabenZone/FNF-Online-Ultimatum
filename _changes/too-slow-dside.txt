@@ -1,0 +1,46 @@
+mods/data/too-slow-dside/Cam Speed Increase.lua
+mods/data/too-slow-dside/mod.txt
+mods/data/too-slow-dside/too-slow-dside-easy.json
+mods/data/too-slow-dside/too-slow-dside-hard.json
+mods/data/too-slow-dside/too-slow-dside.json
+mods/D-Sides/characters/bf.json
+mods/D-Sides/characters/Sonic_fake.json
+mods/D-Sides/characters/gf.json
+mods/D-Sides/stages/sonicstage.json
+mods/D-Sides/stages/sonicstage.lua
+mods/D-Sides/images/characters/BOYFRIEND.png
+mods/D-Sides/images/characters/BOYFRIEND.xml
+mods/D-Sides/images/characters/secret/FakeMightySheet.png
+mods/D-Sides/images/characters/secret/FakeMightySheet.xml
+mods/D-Sides/images/characters/GF_assets.png
+mods/D-Sides/images/characters/GF_assets.xml
+mods/D-Sides/characters/sonic.json
+mods/D-Sides/images/characters/secret/MightyZIPSHEET.png
+mods/D-Sides/images/characters/secret/MightyZIPSHEET.xml
+mods/D-Sides/characters/mightyline.json
+mods/D-Sides/images/characters/secret/MightySpeaks.png
+mods/D-Sides/images/characters/secret/MightySpeaks.xml
+mods/D-Sides/custom_notetypes/Ice Note.lua
+mods/D-Sides/custom_events/Lyrics.lua
+mods/D-Sides/custom_events/Flash Camera.lua
+mods/D-Sides/custom_events/ShowHud.lua
+mods/D-Sides/custom_events/BlackOut.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/images/boners/TOO-SLOW/background ladders.png
+mods/D-Sides/images/boners/TOO-SLOW/icicles background.png
+mods/D-Sides/images/boners/TOO-SLOW/main stage.png
+mods/D-Sides/images/boners/TOO-SLOW/main stage spoopy.png
+mods/D-Sides/images/snowgrave.png
+mods/D-Sides/images/snowgrave.xml
+mods/D-Sides/images/boners/TOO-SLOW/icicles foreground.png
+mods/D-Sides/images/BloodSplash.png
+mods/D-Sides/images/BloodSplash.xml
+mods/D-Sides/images/ICENOTE_assets.png
+mods/D-Sides/images/ICENOTE_assets.xml
+mods/D-Sides/images/ICEnoteSplashes.png
+mods/D-Sides/images/ICEnoteSplashes.xml
+mods/D-Sides/sounds/Freeze.ogg
+mods/songs/too-slow-dside/Voices.ogg
+mods/songs/too-slow-dside/voices.ogg
+mods/songs/too-slow-dside/Inst.ogg
+mods/songs/too-slow-dside/inst.ogg

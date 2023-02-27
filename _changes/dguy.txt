@@ -1,0 +1,22 @@
+mods/data/dguy/dguy-easy.json
+mods/data/dguy/dguy-hard.json
+mods/data/dguy/dguy.json
+mods/data/dguy/mod.txt
+mods/data/dguy/script death animation.lua
+mods/D-Sides/characters/dboy.json
+mods/D-Sides/characters/ved.json
+mods/D-Sides/characters/dgf.json
+mods/D-Sides/stages/feddy.json
+mods/D-Sides/stages/feddy.lua
+mods/D-Sides/images/characters/dboy.png
+mods/D-Sides/images/characters/dboy.xml
+mods/D-Sides/images/characters/ved.png
+mods/D-Sides/images/characters/ved.xml
+mods/D-Sides/images/characters/dgirl.png
+mods/D-Sides/images/characters/dgirl.xml
+mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/images/boners/feddy.png
+mods/songs/dguy/Voices.ogg
+mods/songs/dguy/voices.ogg
+mods/songs/dguy/Inst.ogg
+mods/songs/dguy/inst.ogg

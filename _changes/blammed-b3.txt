@@ -3,7 +3,25 @@ mods/data/blammed-b3/blammed-b3-getreal.json
 mods/data/blammed-b3/blammed-b3-hard.json
 mods/data/blammed-b3/blammed-b3.json
 mods/data/blammed-b3/events.json
+mods/data/blammed-b3/mod.txt
+mods/B3 Remixed/characters/bf-shaded-w3.json
+mods/B3 Remixed/characters/pico.json
+mods/B3 Remixed/characters/gf-shaded-w3.json
+mods/B3 Remixed/stages/philly-b3.json
+mods/B3 Remixed/stages/philly-b3.lua
+mods/B3 Remixed/images/characters/week3_b3_bf.png
+mods/B3 Remixed/images/characters/week3_b3_bf.xml
+mods/B3 Remixed/images/characters/Pico_FNF_assetss.png
+mods/B3 Remixed/images/characters/Pico_FNF_assetss.xml
+mods/B3 Remixed/images/characters/gf_week3.png
+mods/B3 Remixed/images/characters/gf_week3.xml
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/stages/station/subway.png
+mods/B3 Remixed/images/stages/station/lightsSheet.png
+mods/B3 Remixed/images/stages/station/lightsSheet.xml
+mods/B3 Remixed/images/stages/station/pcameos.png
+mods/B3 Remixed/images/stages/station/pcameos.xml
 mods/songs/blammed-b3/Voices.ogg
-mods/songs/blammed-b3/Inst.ogg
 mods/songs/blammed-b3/voices.ogg
+mods/songs/blammed-b3/Inst.ogg
 mods/songs/blammed-b3/inst.ogg

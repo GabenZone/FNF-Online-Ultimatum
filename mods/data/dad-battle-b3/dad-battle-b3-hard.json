@@ -2913,6 +2913,7 @@
 		],
 		"player3": null,
 		"song": "dad-battle-b3",
+		"stage": "stage-b3",
 		"validScore": true,
 		"needsVoices": true,
 		"speed": 2.6,

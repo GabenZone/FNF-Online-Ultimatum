@@ -1,0 +1,15 @@
+mods/data/monster/mod.txt
+mods/data/monster/monster-easy.json
+mods/data/monster/monster-hard.json
+mods/data/monster/monster.json
+mods/Vanilla/stages/spookyv2.json
+mods/Vanilla/stages/spookyv2.lua
+mods/Vanilla/images/spookyV.3/halloween2_bg_low.png
+mods/Vanilla/images/spookyV.3/halloween2_bg.png
+mods/Vanilla/images/spookyV.3/halloween2_bg.xml
+mods/Vanilla/sounds/thunder2_1.ogg
+mods/Vanilla/sounds/thunder2_2.ogg
+mods/songs/monster/Voices.ogg
+mods/songs/monster/voices.ogg
+mods/songs/monster/Inst.ogg
+mods/songs/monster/inst.ogg

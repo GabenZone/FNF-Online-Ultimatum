@@ -2,6 +2,7 @@
 	"song": {
 		"player1": "bf",
 		"events": [],
+		"stage":"stage-b3",
 		"gfVersion": "gf",
 		"notes": [
 			{
@@ -3288,6 +3289,7 @@
 		"player2": "dad",
 		"player3": null,
 		"song": "Problem",
+		"stage":"stage-b3",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 125,

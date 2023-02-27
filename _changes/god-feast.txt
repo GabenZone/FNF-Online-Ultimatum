@@ -1,0 +1,55 @@
+mods/data/god-feast/events.json
+mods/data/god-feast/god-feast-easy.json
+mods/data/god-feast/god-feast-hard.json
+mods/data/god-feast/god-feast.json
+mods/data/god-feast/mod.txt
+mods/data/god-feast/script.lua
+mods/D-Sides/characters/feast-zeph.json
+mods/D-Sides/characters/feast-exe.json
+mods/D-Sides/characters/gf.json
+mods/D-Sides/stages/feast.json
+mods/D-Sides/stages/feast.lua
+mods/D-Sides/images/characters/feast/GodFeastMightyZIPSheet.png
+mods/D-Sides/images/characters/feast/GodFeastMightyZIPSheet.xml
+mods/D-Sides/images/characters/feast/GodFeastSonicEXESheet.png
+mods/D-Sides/images/characters/feast/GodFeastSonicEXESheet.xml
+mods/D-Sides/images/characters/GF_assets.png
+mods/D-Sides/images/characters/GF_assets.xml
+mods/D-Sides/custom_notetypes/Tenma Feast.lua
+mods/D-Sides/custom_notetypes/GodZ Feast.lua
+mods/D-Sides/custom_notetypes/Xeno Feast.lua
+mods/D-Sides/custom_notetypes/Mazin Feast.lua
+mods/D-Sides/custom_notetypes/Zeph Feast.lua
+mods/D-Sides/custom_notetypes/LordX Feast.lua
+mods/D-Sides/custom_events/Dark Fade.lua
+mods/D-Sides/custom_events/Lyrics.lua
+mods/D-Sides/custom_events/Feast Rhyme.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/images/boners/FEAST/GODFEAST.png
+mods/D-Sides/images/boners/FEAST/GodFeastSunkyandMitteSheet.png
+mods/D-Sides/images/boners/FEAST/GodFeastSunkyandMitteSheet.xml
+mods/D-Sides/images/boners/FEAST/GodFeastTable.png
+mods/D-Sides/images/characters/feast/GodFeastMazinAssets.png
+mods/D-Sides/images/characters/feast/GodFeastMazinAssets.xml
+mods/D-Sides/images/characters/feast/GodFeastLordXAssets.png
+mods/D-Sides/images/characters/feast/GodFeastLordXAssets.xml
+mods/D-Sides/images/characters/feast/GodFeastTenmaSheet.png
+mods/D-Sides/images/characters/feast/GodFeastTenmaSheet.xml
+mods/D-Sides/images/characters/feast/GodFeastGodZSheet.png
+mods/D-Sides/images/characters/feast/GodFeastGodZSheet.xml
+mods/D-Sides/images/boners/FEAST/GodFeastFleetwaySuperAssets.png
+mods/D-Sides/images/boners/FEAST/GodFeastFleetwaySuperAssets.xml
+mods/D-Sides/images/boners/FEAST/GodFeastScourgeSheet.png
+mods/D-Sides/images/boners/FEAST/GodFeastScourgeSheet.xml
+mods/D-Sides/images/characters/feast/GodFeastTenmaGameOverSheet.png
+mods/D-Sides/images/characters/feast/GodFeastTenmaGameOverSheet.xml
+mods/D-Sides/images/characters/feast/GodFeastGodZGameOverSheet.png
+mods/D-Sides/images/characters/feast/GodFeastGodZGameOverSheet.xml
+mods/D-Sides/images/characters/feast/GodFeastMightyZIPGameOverSheet.png
+mods/D-Sides/images/characters/feast/GodFeastMightyZIPGameOverSheet.xml
+mods/D-Sides/images/characters/feast/GodFeastMightyZIPRhyme.png
+mods/D-Sides/images/characters/feast/GodFeastMightyZIPRhyme.xml
+mods/songs/god-feast/Voices.ogg
+mods/songs/god-feast/voices.ogg
+mods/songs/god-feast/Inst.ogg
+mods/songs/god-feast/inst.ogg

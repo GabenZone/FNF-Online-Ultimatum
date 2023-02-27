@@ -1,8 +1,25 @@
+mods/data/spookeez-b3/mod.txt
 mods/data/spookeez-b3/spookeez-b3-easy.json
 mods/data/spookeez-b3/spookeez-b3-getreal.json
 mods/data/spookeez-b3/spookeez-b3-hard.json
 mods/data/spookeez-b3/spookeez-b3.json
+mods/B3 Remixed/characters/bf-shaded-w2.json
+mods/B3 Remixed/characters/spooky.json
+mods/B3 Remixed/characters/gf-shaded-w2.json
+mods/B3 Remixed/stages/spooky1.json
+mods/B3 Remixed/stages/spooky1.lua
+mods/B3 Remixed/images/characters/week_2_bf.png
+mods/B3 Remixed/images/characters/week_2_bf.xml
+mods/B3 Remixed/images/characters/spooky_kids_assets.png
+mods/B3 Remixed/images/characters/spooky_kids_assets.xml
+mods/B3 Remixed/images/characters/gf_week2.png
+mods/B3 Remixed/images/characters/gf_week2.xml
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/stages/forest/sky.png
+mods/B3 Remixed/images/stages/forest/treesB.png
+mods/B3 Remixed/images/stages/forest/house.png
+mods/B3 Remixed/images/stages/forest/treesF.png
 mods/songs/spookeez-b3/Voices.ogg
-mods/songs/spookeez-b3/Inst.ogg
 mods/songs/spookeez-b3/voices.ogg
+mods/songs/spookeez-b3/Inst.ogg
 mods/songs/spookeez-b3/inst.ogg

@@ -3,7 +3,32 @@ mods/data/dessert/dessert-getreal.json
 mods/data/dessert/dessert-hard.json
 mods/data/dessert/dessert.json
 mods/data/dessert/events.json
+mods/B3 Remixed/characters/torment.json
+mods/B3 Remixed/images/characters/Monster_B3_GF.png
+mods/B3 Remixed/images/characters/Monster_B3_GF.xml
+mods/B3 Remixed/characters/bf-pained.json
+mods/B3 Remixed/images/characters/Heartbroken.png
+mods/B3 Remixed/images/characters/Heartbroken.xml
+mods/B3 Remixed/characters/p-gf-hungry-1.json
+mods/B3 Remixed/images/characters/B3_GF_Phase_1_Assets.png
+mods/B3 Remixed/images/characters/B3_GF_Phase_1_Assets.xml
+mods/B3 Remixed/characters/bf-pajamas.json
+mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.png
+mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.xml
+mods/data/dessert/mod.txt
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/room.json
+mods/B3 Remixed/stages/room.lua
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/characters/bf-sad.json
+mods/B3 Remixed/images/characters/B3_BF_SAD.png
+mods/B3 Remixed/images/characters/B3_BF_SAD.xml
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/halloween/room.png
+mods/B3 Remixed/images/halloween/windowcity.png
+mods/B3 Remixed/images/halloween/filter1.png
 mods/songs/dessert/Voices.ogg
-mods/songs/dessert/Inst.ogg
 mods/songs/dessert/voices.ogg
+mods/songs/dessert/Inst.ogg
 mods/songs/dessert/inst.ogg

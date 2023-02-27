@@ -1,8 +1,27 @@
+mods/data/succ_d/mod.txt
 mods/data/succ_d/succ_d-easy.json
 mods/data/succ_d/succ_d-getreal.json
 mods/data/succ_d/succ_d-hard.json
 mods/data/succ_d/succ_d.json
+mods/B3 Remixed/characters/bf-pajamas-alt.json
+mods/B3 Remixed/characters/p-gf-hungry-alt.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/bedroom.json
+mods/B3 Remixed/stages/bedroom.lua
+mods/B3 Remixed/images/characters/bf_bloody2.png
+mods/B3 Remixed/images/characters/bf_bloody2.xml
+mods/B3 Remixed/images/characters/gf_bloody2.png
+mods/B3 Remixed/images/characters/gf_bloody2.xml
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/custom_notetypes/Chomp Note.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/bg.png
+mods/B3 Remixed/images/light.png
+mods/B3 Remixed/images/front.png
+mods/B3 Remixed/images/Chomp Note.png
+mods/B3 Remixed/images/Chomp Note.xml
 mods/songs/succ_d/Voices.ogg
-mods/songs/succ_d/Inst.ogg
 mods/songs/succ_d/voices.ogg
+mods/songs/succ_d/Inst.ogg
 mods/songs/succ_d/inst.ogg

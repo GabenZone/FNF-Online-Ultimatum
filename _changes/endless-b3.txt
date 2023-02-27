@@ -3,7 +3,23 @@ mods/data/endless-b3/endless-b3-getreal.json
 mods/data/endless-b3/endless-b3-hard.json
 mods/data/endless-b3/endless-b3.json
 mods/data/endless-b3/events.json
+mods/data/endless-b3/mod.txt
+mods/B3 Remixed/characters/bf.json
+mods/B3 Remixed/characters/majin-sonic.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/majin.json
+mods/B3 Remixed/stages/majin.lua
+mods/B3 Remixed/images/characters/BOYFRIEND.png
+mods/B3 Remixed/images/characters/BOYFRIEND.xml
+mods/B3 Remixed/images/characters/majin_sonic.png
+mods/B3 Remixed/images/characters/majin_sonic.xml
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/endless_bg_1.png
+mods/B3 Remixed/images/endless_bg_1.xml
+mods/B3 Remixed/images/sss.png
 mods/songs/endless-b3/Voices.ogg
-mods/songs/endless-b3/Inst.ogg
 mods/songs/endless-b3/voices.ogg
+mods/songs/endless-b3/Inst.ogg
 mods/songs/endless-b3/inst.ogg

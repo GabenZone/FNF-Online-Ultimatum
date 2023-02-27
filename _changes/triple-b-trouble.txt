@@ -1,8 +1,41 @@
 mods/data/triple-b-trouble/events.json
+mods/B3 Remixed/characters/torment.json
+mods/B3 Remixed/images/characters/Monster_B3_GF.png
+mods/B3 Remixed/images/characters/Monster_B3_GF.xml
+mods/B3 Remixed/characters/bf-pained.json
+mods/B3 Remixed/images/characters/Heartbroken.png
+mods/B3 Remixed/images/characters/Heartbroken.xml
+mods/B3 Remixed/characters/monster-zombie.json
+mods/B3 Remixed/images/characters/monster_zombie.png
+mods/B3 Remixed/images/characters/monster_zombie.xml
+mods/B3 Remixed/characters/bf-sad-alt.json
+mods/B3 Remixed/images/characters/B3_BF_SAD.png
+mods/B3 Remixed/images/characters/B3_BF_SAD.xml
+mods/B3 Remixed/characters/torment-alt.json
+mods/B3 Remixed/characters/bf-pained-alt.json
+mods/B3 Remixed/characters/mia-zombie.json
+mods/B3 Remixed/images/characters/Zombie_Mia.png
+mods/B3 Remixed/images/characters/Zombie_Mia.xml
+mods/B3 Remixed/characters/bf-sad.json
+mods/data/triple-b-trouble/mod.txt
 mods/data/triple-b-trouble/triple-b-trouble-getreal.json
 mods/data/triple-b-trouble/triple-b-trouble-hard.json
 mods/data/triple-b-trouble/triple-b-trouble.json
+mods/B3 Remixed/characters/pico-zombie.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/dream.json
+mods/B3 Remixed/stages/dream.lua
+mods/B3 Remixed/images/characters/zombie_pico.png
+mods/B3 Remixed/images/characters/zombie_pico.xml
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/custom_notetypes/Gay Note.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/nightmare/dream.png
+mods/B3 Remixed/images/nightmare/filters/blood.png
+mods/B3 Remixed/images/Gay Note.png
+mods/B3 Remixed/images/Gay Note.xml
 mods/songs/triple-b-trouble/Voices.ogg
-mods/songs/triple-b-trouble/Inst.ogg
 mods/songs/triple-b-trouble/voices.ogg
+mods/songs/triple-b-trouble/Inst.ogg
 mods/songs/triple-b-trouble/inst.ogg

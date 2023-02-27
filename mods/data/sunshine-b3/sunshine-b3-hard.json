@@ -30753,19 +30753,16 @@
 			}
 		],
 		"player2": "tails",
-		"isHey": false,
-		"mania": 0,
-		"convertMineToNuke": false,
-		"player3": null,
-		"isCheer": null,
-		"cutsceneType": "none",
-		"song": "sunshine-b3",
-		"isSpooky": false,
-		"validScore": true,
-		"speed": 3,
-		"isMoody": false,
 		"gfVersion": "gf",
-		"forceJudgements": false,
+		"events": [],
+		"player3": null,
+		"song": "sunshine-b3",
+		"needsVoices": true,
+		"sections": 0,
+		"validScore": true,
+		"stage": "sunshine",
+		"bpm": 190,
+		"speed": 3,
 		"events": [
 			[
 				83785.7142857143,
@@ -30808,8 +30805,6 @@
 				]
 			]
 		],
-		"chartVersion": "2",
-		"isRing": false,
 		"eventObjects": [
 			{
 				"type": "BPM Change",
@@ -30817,14 +30812,6 @@
 				"position": 0,
 				"value": 105
 			}
-		],
-		"preferredNoteAmount": 4,
-		"uiType": "normal",
-		"needsVoices": true,
-		"sections": 45,
-		"stage": "sunshine-b3",
-		"noteStyle": null,
-		"bpm": 105,
-		"gf": "gf"
+		]
 	}
 }

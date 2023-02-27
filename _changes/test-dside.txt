@@ -1,0 +1,25 @@
+mods/data/test-dside/mod.txt
+mods/data/test-dside/test-dside-easy.json
+mods/data/test-dside/test-dside-hard.json
+mods/data/test-dside/test-dside.json
+mods/D-Sides/characters/bfdark.json
+mods/D-Sides/characters/placeholderDARK shadow.json
+mods/D-Sides/characters/gfdark.json
+mods/D-Sides/stages/placeholderDARK.json
+mods/D-Sides/stages/placeholderDARK.lua
+mods/D-Sides/images/characters/BOYFRIENDDARK.png
+mods/D-Sides/images/characters/BOYFRIENDDARK.xml
+mods/D-Sides/images/characters/placeholderDARK shadow.png
+mods/D-Sides/images/characters/placeholderDARK shadow.xml
+mods/D-Sides/images/characters/GF_assetsDARK.png
+mods/D-Sides/images/characters/GF_assetsDARK.xml
+mods/D-Sides/characters/placeholderDARK.json
+mods/D-Sides/images/characters/placeholderDARK.png
+mods/D-Sides/images/characters/placeholderDARK.xml
+mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/images/W0/TestWeekBGDARK.png
+mods/D-Sides/images/W0/TestWeekForeDARK.png
+mods/songs/test-dside/Voices.ogg
+mods/songs/test-dside/voices.ogg
+mods/songs/test-dside/Inst.ogg
+mods/songs/test-dside/inst.ogg

@@ -1,0 +1,38 @@
+mods/data/blammed-dside/blammed-dside-easy.json
+mods/data/blammed-dside/blammed-dside-hard.json
+mods/data/blammed-dside/blammed-dside.json
+mods/data/blammed-dside/events.json
+mods/data/blammed-dside/mod.txt
+mods/D-Sides/characters/bfdark.json
+mods/D-Sides/characters/picodark.json
+mods/D-Sides/characters/gfdark.json
+mods/D-Sides/stages/blammed night.json
+mods/D-Sides/stages/blammed night.lua
+mods/D-Sides/images/characters/BOYFRIENDDARK.png
+mods/D-Sides/images/characters/BOYFRIENDDARK.xml
+mods/D-Sides/images/characters/Pico_FNF_assetssDARK.png
+mods/D-Sides/images/characters/Pico_FNF_assetssDARK.xml
+mods/D-Sides/images/characters/GF_assetsDARK.png
+mods/D-Sides/images/characters/GF_assetsDARK.xml
+mods/D-Sides/custom_notetypes/Blammed Notes.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/images/philly/skyDark.png
+mods/D-Sides/images/philly/cityDark.png
+mods/D-Sides/images/philly/behindTrainDark.png
+mods/D-Sides/images/philly/streetDark.png
+mods/D-Sides/images/philly/trainDark.png
+mods/D-Sides/images/philly/win0.png
+mods/D-Sides/images/philly/win1.png
+mods/D-Sides/images/philly/win2.png
+mods/D-Sides/images/philly/win3.png
+mods/D-Sides/images/philly/win4.png
+mods/D-Sides/images/philly/Crowd2DARK.png
+mods/D-Sides/images/philly/Crowd2DARK.xml
+mods/D-Sides/sounds/train_passes.ogg
+mods/D-Sides/images/Blammed.png
+mods/D-Sides/images/Blammed.xml
+mods/D-Sides/sounds/gun.ogg
+mods/songs/blammed-dside/Voices.ogg
+mods/songs/blammed-dside/voices.ogg
+mods/songs/blammed-dside/Inst.ogg
+mods/songs/blammed-dside/inst.ogg

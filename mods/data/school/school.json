@@ -1,6 +1,7 @@
 {
 	"song": {
 		"player1": "bf-shaded-w3",
+		"stage":"philly-b3",
 		"sectionLengths": [],
 		"notes": [
 			{
@@ -4689,7 +4690,7 @@
 		"needsVoices": true,
 		"sections": 0,
 		"validScore": true,
-		"stage": "philly",
+		"stage": "philly-b3",
 		"bpm": 162,
 		"speed": 2.3,
 		"gf": "gf"

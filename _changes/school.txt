@@ -1,9 +1,42 @@
 mods/data/school/events.json
+mods/B3 Remixed/characters/no.json
+mods/B3 Remixed/images/characters/no.png
+mods/B3 Remixed/images/characters/no.xml
+mods/B3 Remixed/characters/bf-rainbow.json
+mods/B3 Remixed/images/characters/bfbutgay.png
+mods/B3 Remixed/images/characters/bfbutgay.xml
+mods/B3 Remixed/characters/pico-rainbow.json
+mods/B3 Remixed/images/characters/picobutgay.png
+mods/B3 Remixed/images/characters/picobutgay.xml
+mods/B3 Remixed/characters/bf-shaded-w3.json
+mods/B3 Remixed/images/characters/week3_b3_bf.png
+mods/B3 Remixed/images/characters/week3_b3_bf.xml
+mods/B3 Remixed/characters/pico.json
+mods/B3 Remixed/images/characters/Pico_FNF_assetss.png
+mods/B3 Remixed/images/characters/Pico_FNF_assetss.xml
+mods/B3 Remixed/characters/gf-shaded-w3.json
+mods/B3 Remixed/images/characters/gf_week3.png
+mods/B3 Remixed/images/characters/gf_week3.xml
+mods/data/school/mod.txt
 mods/data/school/school-easy.json
 mods/data/school/school-getreal.json
 mods/data/school/school-hard.json
 mods/data/school/school.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/philly-b3.json
+mods/B3 Remixed/stages/philly-b3.lua
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/custom_notetypes/Gay Note.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/stages/station/subway.png
+mods/B3 Remixed/images/stages/station/lightsSheet.png
+mods/B3 Remixed/images/stages/station/lightsSheet.xml
+mods/B3 Remixed/images/stages/station/pcameos.png
+mods/B3 Remixed/images/stages/station/pcameos.xml
+mods/B3 Remixed/images/Gay Note.png
+mods/B3 Remixed/images/Gay Note.xml
 mods/songs/school/Voices.ogg
-mods/songs/school/Inst.ogg
 mods/songs/school/voices.ogg
+mods/songs/school/Inst.ogg
 mods/songs/school/inst.ogg

@@ -3988,6 +3988,7 @@
 		"player2": "dad",
 		"player3": null,
 		"song": "dad-battle-b3",
+		"stage": "stage-b3",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 180,

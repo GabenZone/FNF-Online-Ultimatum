@@ -1,0 +1,29 @@
+mods/data/lore-dside/events.json
+mods/D-Sides/characters/policenew.json
+mods/D-Sides/images/characters/policeguy.png
+mods/D-Sides/images/characters/policeguy.xml
+mods/data/lore-dside/lore-dside-easy.json
+mods/data/lore-dside/lore-dside-hard.json
+mods/data/lore-dside/lore-dside.json
+mods/data/lore-dside/mod.txt
+mods/D-Sides/characters/vedplayable.json
+mods/D-Sides/characters/mack.json
+mods/D-Sides/characters/police-anims.json
+mods/D-Sides/stages/mack.json
+mods/D-Sides/stages/mack.lua
+mods/D-Sides/images/characters/vedplay.png
+mods/D-Sides/images/characters/vedplay.xml
+mods/D-Sides/images/characters/mack.png
+mods/D-Sides/images/characters/mack.xml
+mods/D-Sides/images/characters/police2.png
+mods/D-Sides/images/characters/police2.xml
+mods/D-Sides/custom_events/Break Window.lua
+mods/D-Sides/custom_events/show gf.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/images/boners/lore/lore_broken_bg.png
+mods/D-Sides/images/boners/lore/lore_normal_bg_windowcolor.png
+mods/D-Sides/images/boners/lore/lore_normal_bg_window.png
+mods/songs/lore-dside/Voices.ogg
+mods/songs/lore-dside/voices.ogg
+mods/songs/lore-dside/Inst.ogg
+mods/songs/lore-dside/inst.ogg

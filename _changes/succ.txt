@@ -1,8 +1,24 @@
+mods/data/succ/mod.txt
 mods/data/succ/succ-easy.json
 mods/data/succ/succ-getreal.json
 mods/data/succ/succ-hard.json
 mods/data/succ/succ.json
+mods/B3 Remixed/characters/bf-pajamas.json
+mods/B3 Remixed/characters/p-gf-hungry-2.json
+mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.png
+mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.xml
+mods/B3 Remixed/images/characters/B3_GF_Phase_2_Assets.png
+mods/B3 Remixed/images/characters/B3_GF_Phase_2_Assets.xml
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/room.json
+mods/B3 Remixed/stages/room.lua
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/halloween/room.png
+mods/B3 Remixed/images/halloween/windowcity.png
+mods/B3 Remixed/images/halloween/filter1.png
 mods/songs/succ/Voices.ogg
-mods/songs/succ/Inst.ogg
 mods/songs/succ/voices.ogg
+mods/songs/succ/Inst.ogg
 mods/songs/succ/inst.ogg

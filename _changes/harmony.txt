@@ -2,7 +2,23 @@ mods/data/harmony/harmony-easy.json
 mods/data/harmony/harmony-getreal.json
 mods/data/harmony/harmony-hard.json
 mods/data/harmony/harmony.json
+mods/data/harmony/mod.txt
+mods/B3 Remixed/characters/p-gf-playable.json
+mods/B3 Remixed/characters/pico-unshaded.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/podcast.json
+mods/B3 Remixed/stages/podcast.lua
+mods/B3 Remixed/images/characters/shaya-playable.png
+mods/B3 Remixed/images/characters/shaya-playable.xml
+mods/B3 Remixed/images/characters/b3pico.png
+mods/B3 Remixed/images/characters/b3pico.xml
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/harmony/Back.png
+mods/B3 Remixed/images/harmony/Studio.png
+mods/B3 Remixed/images/harmony/Glass.png
 mods/songs/harmony/Voices.ogg
-mods/songs/harmony/Inst.ogg
 mods/songs/harmony/voices.ogg
+mods/songs/harmony/Inst.ogg
 mods/songs/harmony/inst.ogg

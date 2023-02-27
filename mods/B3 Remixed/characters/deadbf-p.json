@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF Dies"
+		},
+		{
+			"offsets": [
+				-65,
+				4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				-36,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Death Confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B3_BF_Halloween_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "roombf",
+	"flip_x": true,
+	"healthbar_colors": [
+		86,
+		250,
+		87
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

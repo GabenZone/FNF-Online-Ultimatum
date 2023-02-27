@@ -2,7 +2,23 @@ mods/data/fresh-b3/fresh-b3-easy.json
 mods/data/fresh-b3/fresh-b3-getreal.json
 mods/data/fresh-b3/fresh-b3-hard.json
 mods/data/fresh-b3/fresh-b3.json
+mods/data/fresh-b3/mod.txt
+mods/B3 Remixed/characters/bf.json
+mods/B3 Remixed/characters/dad.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/stage-b3.json
+mods/B3 Remixed/stages/stage-b3.lua
+mods/B3 Remixed/images/characters/BOYFRIEND.png
+mods/B3 Remixed/images/characters/BOYFRIEND.xml
+mods/B3 Remixed/images/characters/DADDY_DEAREST.png
+mods/B3 Remixed/images/characters/DADDY_DEAREST.xml
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/stages/stadium/bg.png
+mods/B3 Remixed/images/stages/stadium/chars.png
+mods/B3 Remixed/images/stages/stadium/chars.xml
 mods/songs/fresh-b3/Voices.ogg
-mods/songs/fresh-b3/Inst.ogg
 mods/songs/fresh-b3/voices.ogg
+mods/songs/fresh-b3/Inst.ogg
 mods/songs/fresh-b3/inst.ogg

@@ -2,6 +2,7 @@
 	"song": {
 		"player1": "bf",
 		"player2": "dad",
+		"stage":"stage-b3",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -4658,6 +4659,7 @@
 		"events": [],
 		"player3": null,
 		"song": "Problem",
+		"stage":"stage-b3",
 		"validScore": true,
 		"needsVoices": true,
 		"speed": 2.7,

@@ -2,7 +2,23 @@ mods/data/guh/guh-easy.json
 mods/data/guh/guh-getreal.json
 mods/data/guh/guh-hard.json
 mods/data/guh/guh.json
+mods/data/guh/mod.txt
+mods/B3 Remixed/characters/bf-pajamas-alt.json
+mods/B3 Remixed/characters/p-gf-hungry-alt.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/bedroom.json
+mods/B3 Remixed/stages/bedroom.lua
+mods/B3 Remixed/images/characters/bf_bloody2.png
+mods/B3 Remixed/images/characters/bf_bloody2.xml
+mods/B3 Remixed/images/characters/gf_bloody2.png
+mods/B3 Remixed/images/characters/gf_bloody2.xml
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/bg.png
+mods/B3 Remixed/images/light.png
+mods/B3 Remixed/images/front.png
 mods/songs/guh/Voices.ogg
-mods/songs/guh/Inst.ogg
 mods/songs/guh/voices.ogg
+mods/songs/guh/Inst.ogg
 mods/songs/guh/inst.ogg

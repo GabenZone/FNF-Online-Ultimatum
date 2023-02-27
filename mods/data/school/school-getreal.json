@@ -1,6 +1,7 @@
 {
 	"song": {
 		"player1": "bf-shaded-w3",
+		"stage":"philly-b3",
 		"sectionLengths": [],
 		"events": [
 			[
@@ -5087,7 +5088,7 @@
 		"player2": "pico",
 		"player3": null,
 		"song": "School",
-		"stage": "philly",
+		"stage": "philly-b3",
 		"validScore": true,
 		"sections": 0,
 		"needsVoices": true,

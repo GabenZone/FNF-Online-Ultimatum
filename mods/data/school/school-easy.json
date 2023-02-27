@@ -2,6 +2,7 @@
 	"song": {
 		"speed": 2.3,
 		"stage": "philly",
+		"stage":"philly-b3",
 		"player1": "bf-shaded-w3",
 		"player2": "pico",
 		"player3": null,

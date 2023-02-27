@@ -1,0 +1,15 @@
+mods/data/dad-battle/dad-battle-easy.json
+mods/data/dad-battle/dad-battle-hard.json
+mods/data/dad-battle/dad-battle.json
+mods/data/dad-battle/events.json
+mods/data/dad-battle/mod.txt
+mods/Vanilla/stages/stagev2.json
+mods/Vanilla/stages/stagev2.lua
+mods/Vanilla/images/Tutorial/stageback.png
+mods/Vanilla/images/Tutorial/stagefront.png
+mods/Vanilla/images/Tutorial/stage_light.png
+mods/Vanilla/images/Tutorial/stagecurtains.png
+mods/songs/dad-battle/Voices.ogg
+mods/songs/dad-battle/voices.ogg
+mods/songs/dad-battle/Inst.ogg
+mods/songs/dad-battle/inst.ogg

@@ -1,0 +1,26 @@
+mods/data/pico-dside/mod.txt
+mods/data/pico-dside/pico-dside-easy.json
+mods/data/pico-dside/pico-dside-hard.json
+mods/data/pico-dside/pico-dside.json
+mods/D-Sides/characters/bf.json
+mods/D-Sides/characters/pico.json
+mods/D-Sides/characters/gf.json
+mods/D-Sides/stages/philly.json
+mods/D-Sides/stages/philly.lua
+mods/D-Sides/images/characters/BOYFRIEND.png
+mods/D-Sides/images/characters/BOYFRIEND.xml
+mods/D-Sides/images/characters/Pico_FNF_assetss.png
+mods/D-Sides/images/characters/Pico_FNF_assetss.xml
+mods/D-Sides/images/characters/GF_assets.png
+mods/D-Sides/images/characters/GF_assets.xml
+mods/D-Sides/custom_notetypes/Blammed Notes.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/images/philly/Crowd1.png
+mods/D-Sides/images/philly/Crowd1.xml
+mods/D-Sides/images/Blammed.png
+mods/D-Sides/images/Blammed.xml
+mods/D-Sides/sounds/gun.ogg
+mods/songs/pico-dside/Voices.ogg
+mods/songs/pico-dside/voices.ogg
+mods/songs/pico-dside/Inst.ogg
+mods/songs/pico-dside/inst.ogg

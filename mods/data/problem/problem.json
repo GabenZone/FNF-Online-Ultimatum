@@ -2,6 +2,7 @@
 	"song": {
 		"player1": "bf",
 		"events": [],
+		"stage":"stage-b3",
 		"gfVersion": "gf",
 		"notes": [
 			{

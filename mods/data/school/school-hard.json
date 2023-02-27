@@ -1,6 +1,7 @@
 {
 	"song": {
 		"player1": "bf-shaded-w3",
+		"stage":"philly-b3",
 		"sectionLengths": [],
 		"notes": [
 			{
@@ -4350,7 +4351,7 @@
 		"player3": null,
 		"song": "School",
 		"validScore": true,
-		"stage": "philly",
+		"stage": "philly-b3",
 		"needsVoices": true,
 		"sections": 0,
 		"bpm": 162,

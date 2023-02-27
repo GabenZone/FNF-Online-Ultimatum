@@ -1,6 +1,7 @@
 {
 	"song": {
 		"player1": "bf",
+		"stage":"stage-b3",
 		"sectionLengths": [],
 		"player2": "dad",
 		"notes": [

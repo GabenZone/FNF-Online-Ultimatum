@@ -1,5 +1,14 @@
 mods/data/menyoo/menyoo.json
-mods/songs/menyoo/Voices.ogg
+mods/data/menyoo/mod.txt
+mods/B3 Remixed/characters/bf.json
+mods/B3 Remixed/characters/pico.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/images/characters/BOYFRIEND.png
+mods/B3 Remixed/images/characters/BOYFRIEND.xml
+mods/B3 Remixed/images/characters/Pico_FNF_assetss.png
+mods/B3 Remixed/images/characters/Pico_FNF_assetss.xml
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/scripts/Intro.lua
 mods/songs/menyoo/Inst.ogg
-mods/songs/menyoo/voices.ogg
 mods/songs/menyoo/inst.ogg

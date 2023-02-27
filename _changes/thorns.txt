@@ -1,0 +1,15 @@
+mods/data/thorns/events.json
+mods/data/thorns/mod.txt
+mods/data/thorns/thorns-easy.json
+mods/data/thorns/thorns-hard.json
+mods/data/thorns/thorns.json
+mods/Vanilla/characters/spirit-alt.json
+mods/Vanilla/stages/schoolv3.json
+mods/Vanilla/stages/schoolv3.lua
+mods/Vanilla/images/characters/spiritAlt.png
+mods/Vanilla/images/characters/spiritAlt.xml
+mods/Vanilla/images/stages/WeebHD/Bg-Evil.png
+mods/songs/thorns/Voices.ogg
+mods/songs/thorns/voices.ogg
+mods/songs/thorns/Inst.ogg
+mods/songs/thorns/inst.ogg

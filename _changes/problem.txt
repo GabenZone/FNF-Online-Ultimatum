@@ -1,8 +1,24 @@
+mods/data/problem/mod.txt
 mods/data/problem/problem-easy.json
 mods/data/problem/problem-getreal.json
 mods/data/problem/problem-hard.json
 mods/data/problem/problem.json
+mods/B3 Remixed/characters/bf.json
+mods/B3 Remixed/characters/dad.json
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/stages/stage-b3.json
+mods/B3 Remixed/stages/stage-b3.lua
+mods/B3 Remixed/images/characters/BOYFRIEND.png
+mods/B3 Remixed/images/characters/BOYFRIEND.xml
+mods/B3 Remixed/images/characters/DADDY_DEAREST.png
+mods/B3 Remixed/images/characters/DADDY_DEAREST.xml
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/stages/stadium/bg.png
+mods/B3 Remixed/images/stages/stadium/chars.png
+mods/B3 Remixed/images/stages/stadium/chars.xml
 mods/songs/problem/Voices.ogg
-mods/songs/problem/Inst.ogg
 mods/songs/problem/voices.ogg
+mods/songs/problem/Inst.ogg
 mods/songs/problem/inst.ogg

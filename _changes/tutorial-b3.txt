@@ -1,9 +1,23 @@
 mods/data/tutorial-b3/events.json
+mods/data/tutorial-b3/mod.txt
 mods/data/tutorial-b3/tutorial-b3-easy.json
 mods/data/tutorial-b3/tutorial-b3-getreal.json
 mods/data/tutorial-b3/tutorial-b3-hard.json
 mods/data/tutorial-b3/tutorial-b3.json
+mods/B3 Remixed/characters/bf.json
+mods/B3 Remixed/characters/gf-full.json
+mods/B3 Remixed/stages/stage-alt.json
+mods/B3 Remixed/stages/stage-alt.lua
+mods/B3 Remixed/images/characters/BOYFRIEND.png
+mods/B3 Remixed/images/characters/BOYFRIEND.xml
+mods/B3 Remixed/images/characters/GF_assets.png
+mods/B3 Remixed/images/characters/GF_assets.xml
+mods/B3 Remixed/characters/gf.json
+mods/B3 Remixed/images/characters/shaya_mini.png
+mods/B3 Remixed/images/characters/shaya_mini.xml
+mods/B3 Remixed/scripts/Intro.lua
+mods/B3 Remixed/images/stages/stadium/bg.png
 mods/songs/tutorial-b3/Voices.ogg
-mods/songs/tutorial-b3/Inst.ogg
 mods/songs/tutorial-b3/voices.ogg
+mods/songs/tutorial-b3/Inst.ogg
 mods/songs/tutorial-b3/inst.ogg

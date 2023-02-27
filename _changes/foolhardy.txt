@@ -1,5 +1,14 @@
 mods/data/foolhardy/foolhardy.json
+mods/data/foolhardy/mod.txt
+mods/data/foolhardy/script.lua
+mods/Zardy/characters/zardyMyBeloved.json
+mods/Zardy/stages/fuckyouZardyTime.json
+mods/Zardy/stages/fuckyouZardyTime.lua
+mods/Zardy/images/characters/Zardy.png
+mods/Zardy/images/characters/Zardy.xml
+mods/Zardy/images/Maze.png
+mods/Zardy/images/Maze.xml
 mods/songs/foolhardy/Voices.ogg
-mods/songs/foolhardy/Inst.ogg
 mods/songs/foolhardy/voices.ogg
+mods/songs/foolhardy/Inst.ogg
 mods/songs/foolhardy/inst.ogg
