@@ -4,6 +4,7 @@ mods/data/not-a-monster/not-a-monster-easy.json
 mods/data/not-a-monster/not-a-monster-getreal.json
 mods/data/not-a-monster/not-a-monster-hard.json
 mods/data/not-a-monster/not-a-monster.json
+mods/data/not-a-monster/script.lua
 mods/B3 Remixed/characters/bf-shaded-w2.json
 mods/B3 Remixed/characters/monster.json
 mods/B3 Remixed/characters/gf-shaded-w2.json

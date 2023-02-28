@@ -1,0 +1,30 @@
+mods/data/extraterrestrial/events.json
+mods/data/extraterrestrial/extraterrestrial.json
+mods/data/extraterrestrial/mod.txt
+mods/Hotline 024/characters/nikku-ship.json
+mods/Hotline 024/characters/xigmund.json
+mods/Hotline 024/characters/gf-empty.json
+mods/Hotline 024/stages/xigmund.json
+mods/Hotline 024/stages/xigmund.lua
+mods/Hotline 024/images/characters/Spaceship.png
+mods/Hotline 024/images/characters/Spaceship.xml
+mods/Hotline 024/images/characters/Xigmund.png
+mods/Hotline 024/images/characters/Xigmund.xml
+mods/Hotline 024/images/characters/empty.png
+mods/Hotline 024/images/characters/empty.xml
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/xigmund/bg.png
+mods/Hotline 024/images/xigmund/PlaBlue.png
+mods/Hotline 024/images/xigmund/PlaRed.png
+mods/Hotline 024/images/xigmund/SUM.png
+mods/Hotline 024/images/xigmund/SUM-2.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/characters/MATZURETRY.xml
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/extraterrestrial/Voices.ogg
+mods/songs/extraterrestrial/voices.ogg
+mods/songs/extraterrestrial/Inst.ogg
+mods/songs/extraterrestrial/inst.ogg

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WhittBlitzzDAWN.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WhittBlitzDown0000" x="0" y="0" width="1189" height="1285"/>
+	<SubTexture name="WhittBlitzDown0001" x="1189" y="0" width="1189" height="1284" frameX="0" frameY="-1" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0002" x="2378" y="0" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0003" x="3567" y="0" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0004" x="4756" y="0" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0005" x="2378" y="1276" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0006" x="3567" y="1276" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0007" x="4756" y="1276" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0008" x="1189" y="1284" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0009" x="0" y="1285" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0010" x="2378" y="2552" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0011" x="3567" y="2552" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0012" x="4756" y="2552" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0013" x="4756" y="2552" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+	<SubTexture name="WhittBlitzDown0014" x="4756" y="2552" width="1189" height="1276" frameX="0" frameY="-9" frameWidth="1189" frameHeight="1285"/>
+</TextureAtlas>

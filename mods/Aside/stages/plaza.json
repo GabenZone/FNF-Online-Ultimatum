@@ -1,0 +1,12 @@
+{
+  "directory": "weekMomichi",
+  "defaultZoom": 0.90719199061609,
+  "isPixelStage": false,
+  "camera_bf_zoom": 0.9,
+  "camera_dad_zoom": 0.85,
+  "camera_boyfriend": [-120, 0],
+  "camera_opponent": [50, 130],
+  "boyfriend": [700.5, 130],
+  "girlfriend": [105.5, 199],
+  "opponent": [-200, 335]
+}

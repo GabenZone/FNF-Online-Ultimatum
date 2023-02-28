@@ -1,0 +1,26 @@
+mods/data/close-chuckle/close-chuckle.json
+mods/data/close-chuckle/mod.txt
+mods/data/close-chuckle/script.lua
+mods/Hotline 024/characters/pim.json
+mods/Hotline 024/characters/charlie.json
+mods/Hotline 024/characters/cursedbf.json
+mods/Hotline 024/stages/smiling.json
+mods/Hotline 024/stages/smiling.lua
+mods/Hotline 024/images/characters/Pim.png
+mods/Hotline 024/images/characters/Pim.xml
+mods/Hotline 024/images/characters/Charlie.png
+mods/Hotline 024/images/characters/Charlie.xml
+mods/Hotline 024/images/characters/cursedbf.png
+mods/Hotline 024/images/characters/cursedbf.xml
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/smiling/bg.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/characters/MATZURETRY.xml
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/close-chuckle/Voices.ogg
+mods/songs/close-chuckle/voices.ogg
+mods/songs/close-chuckle/Inst.ogg
+mods/songs/close-chuckle/inst.ogg

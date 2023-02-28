@@ -1,4 +1,5 @@
 mods/data/sunshine-b3/mod.txt
+mods/data/sunshine-b3/script.lua
 mods/data/sunshine-b3/sunshine-b3-easy.json
 mods/data/sunshine-b3/sunshine-b3-getreal.json
 mods/data/sunshine-b3/sunshine-b3-hard.json

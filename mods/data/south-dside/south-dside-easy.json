@@ -2235,7 +2235,7 @@
 		],
 		"player3": "gf",
 		"song": "south-dside",
-		"stage": "spooky",
+		"stage": "monsterspook",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 1.6,

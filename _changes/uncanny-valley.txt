@@ -1,0 +1,32 @@
+mods/data/uncanny-valley/events.json
+mods/data/uncanny-valley/mod.txt
+mods/data/uncanny-valley/script.lua
+mods/data/uncanny-valley/uncanny-valley-easy.json
+mods/data/uncanny-valley/uncanny-valley.json
+mods/Hotline 024/characters/ena.json
+mods/Hotline 024/characters/fabs.json
+mods/Hotline 024/characters/gf-empty.json
+mods/Hotline 024/stages/ena.json
+mods/Hotline 024/stages/ena.lua
+mods/Hotline 024/images/characters/Ena_assets.png
+mods/Hotline 024/images/characters/Ena_assets.xml
+mods/Hotline 024/images/characters/fabs.png
+mods/Hotline 024/images/characters/fabs.xml
+mods/Hotline 024/images/characters/empty.png
+mods/Hotline 024/images/characters/empty.xml
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/ena/ENA-1.png
+mods/Hotline 024/images/ena/ENA-2.png
+mods/Hotline 024/images/ena/ENA-3.png
+mods/Hotline 024/images/ena/OERLAY-4.png
+mods/Hotline 024/images/ena/ENA-5.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/characters/MATZURETRY.xml
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/uncanny-valley/Voices.ogg
+mods/songs/uncanny-valley/voices.ogg
+mods/songs/uncanny-valley/Inst.ogg
+mods/songs/uncanny-valley/inst.ogg

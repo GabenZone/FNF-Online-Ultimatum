@@ -1,0 +1,30 @@
+mods/data/armageddon/armageddon.json
+mods/data/armageddon/events.json
+mods/data/armageddon/mod.txt
+mods/Hotline 024/characters/nikku_date.json
+mods/Hotline 024/characters/rude1_date.json
+mods/Hotline 024/characters/gf-empty.json
+mods/Hotline 024/stages/amarged.json
+mods/Hotline 024/stages/amarged.lua
+mods/Hotline 024/images/characters/nikku_date_assets.png
+mods/Hotline 024/images/characters/nikku_date_assets.xml
+mods/Hotline 024/images/characters/rude1_date_assets.png
+mods/Hotline 024/images/characters/rude1_date_assets.xml
+mods/Hotline 024/images/characters/empty.png
+mods/Hotline 024/images/characters/empty.xml
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/amarged/background.png
+mods/Hotline 024/images/amarged/bars.png
+mods/Hotline 024/images/amarged/build2.png
+mods/Hotline 024/images/amarged/rocks.png
+mods/Hotline 024/images/amarged/water.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/characters/MATZURETRY.xml
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/armageddon/Voices.ogg
+mods/songs/armageddon/voices.ogg
+mods/songs/armageddon/Inst.ogg
+mods/songs/armageddon/inst.ogg

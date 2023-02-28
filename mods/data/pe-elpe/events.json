@@ -1,0 +1,31 @@
+{
+	"song": {
+		"events": [
+			[
+				75428.5714285715,
+				[
+					[
+						"Change Character",
+						"1",
+						"momichi_e"
+					],
+					[
+						"Play Animation",
+						"event",
+						"Dad"
+					]
+				]
+			],
+			[
+				78750,
+				[
+					[
+						"Change Character",
+						"1",
+						"momichi"
+					]
+				]
+			]
+		]
+	}
+}

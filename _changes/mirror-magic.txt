@@ -1,0 +1,31 @@
+mods/data/mirror-magic/events.json
+mods/data/mirror-magic/mirror-magic.json
+mods/data/mirror-magic/mod.txt
+mods/Hotline 024/characters/bf.json
+mods/Hotline 024/characters/nikku.json
+mods/Hotline 024/characters/gf.json
+mods/Hotline 024/stages/nikkuMall.json
+mods/Hotline 024/stages/nikkuMall.lua
+mods/Hotline 024/images/characters/BOYFRIENDTWO.png
+mods/Hotline 024/images/characters/BOYFRIENDTWO.xml
+mods/Hotline 024/images/characters/NikkuAssets.png
+mods/Hotline 024/images/characters/NikkuAssets.xml
+mods/Hotline 024/images/characters/GF_assets.png
+mods/Hotline 024/images/characters/GF_assets.xml
+mods/Hotline 024/custom_notetypes/Swap Note.lua
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/nikkuMall/back.png
+mods/Hotline 024/images/nikkuMall/front.png
+mods/Hotline 024/images/nikkuMall/light.png
+mods/Hotline 024/images/nikkuMall/cables.png
+mods/Hotline 024/images/nikkuMall/plants.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/characters/MATZURETRY.xml
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/mirror-magic/Voices.ogg
+mods/songs/mirror-magic/voices.ogg
+mods/songs/mirror-magic/Inst.ogg
+mods/songs/mirror-magic/inst.ogg

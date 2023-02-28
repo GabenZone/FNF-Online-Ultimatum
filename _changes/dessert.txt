@@ -16,6 +16,7 @@ mods/B3 Remixed/characters/bf-pajamas.json
 mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.png
 mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.xml
 mods/data/dessert/mod.txt
+mods/data/dessert/script.lua
 mods/B3 Remixed/characters/gf.json
 mods/B3 Remixed/stages/room.json
 mods/B3 Remixed/stages/room.lua

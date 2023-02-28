@@ -18,6 +18,7 @@ mods/B3 Remixed/images/characters/Zombie_Mia.png
 mods/B3 Remixed/images/characters/Zombie_Mia.xml
 mods/B3 Remixed/characters/bf-sad.json
 mods/data/triple-b-trouble/mod.txt
+mods/data/triple-b-trouble/scriptREAL.lua
 mods/data/triple-b-trouble/triple-b-trouble-getreal.json
 mods/data/triple-b-trouble/triple-b-trouble-hard.json
 mods/data/triple-b-trouble/triple-b-trouble.json

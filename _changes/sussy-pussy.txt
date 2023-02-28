@@ -1,0 +1,27 @@
+mods/data/sussy-pussy/mod.txt
+mods/data/sussy-pussy/sussy-pussy.json
+mods/Hotline 024/characters/nikku-3d.json
+mods/Hotline 024/characters/tomongus.json
+mods/Hotline 024/characters/gf-empty.json
+mods/Hotline 024/stages/sus.json
+mods/Hotline 024/stages/sus.lua
+mods/Hotline 024/images/characters/nikku3d.png
+mods/Hotline 024/images/characters/nikku3d.xml
+mods/Hotline 024/images/characters/tomong.png
+mods/Hotline 024/images/characters/tomong.xml
+mods/Hotline 024/images/characters/empty.png
+mods/Hotline 024/images/characters/empty.xml
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/sus/SUS1.png
+mods/Hotline 024/images/sus/SUS2.png
+mods/Hotline 024/images/sus/SUS3.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/characters/MATZURETRY.xml
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/sussy-pussy/Voices.ogg
+mods/songs/sussy-pussy/voices.ogg
+mods/songs/sussy-pussy/Inst.ogg
+mods/songs/sussy-pussy/inst.ogg

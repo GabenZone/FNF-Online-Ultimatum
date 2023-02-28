@@ -1,0 +1,9 @@
+{
+  "directory": "weekWhitty",
+  "defaultZoom": 0.8859087427253849,
+  "isPixelStage": false,
+  "camera_bf_zoom": 0.88,
+  "boyfriend": [650, -10],
+  "girlfriend": [1650, -10],
+  "opponent": [20, 130]
+}

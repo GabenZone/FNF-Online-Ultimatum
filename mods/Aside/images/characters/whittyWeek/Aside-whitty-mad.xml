@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="whitty.png">
+<SubTexture name="whitty idle0000" x="2702" y="2417" width="1028" height="1141" frameX="-470" frameY="-330" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty idle0001" x="4137" y="0" width="1011" height="1127" frameX="-483" frameY="-344" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty idle0002" x="4137" y="2251" width="999" height="1103" frameX="-492" frameY="-368" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty idle0003" x="5861" y="2145" width="979" height="1069" frameX="-507" frameY="-402" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty idle0004" x="1891" y="5807" width="968" height="1055" frameX="-518" frameY="-416" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty idle0005" x="969" y="6866" width="965" height="1008" frameX="-521" frameY="-463" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty idle0006" x="6980" y="0" width="963" height="1033" frameX="-523" frameY="-438" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty idle0007" x="6980" y="1033" width="946" height="1019" frameX="-540" frameY="-452" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty down0000" x="3983" y="5807" width="832" height="1049" frameX="-534" frameY="-377" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty down0001" x="6980" y="2052" width="789" height="1019" frameX="-562" frameY="-413" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty down0002" x="1675" y="4704" width="779" height="1095" frameX="-569" frameY="-338" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty down0003" x="4137" y="1127" width="734" height="1124" frameX="-617" frameY="-309" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty down0004" x="949" y="4704" width="726" height="1102" frameX="-625" frameY="-331" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty down0005" x="3576" y="4704" width="718" height="1086" frameX="-633" frameY="-345" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty down0006" x="5148" y="0" width="713" height="1103" frameX="-638" frameY="-326" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty down0007" x="5861" y="1073" width="711" height="1072" frameX="-640" frameY="-356" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty down0008" x="5148" y="1103" width="709" height="1090" frameX="-642" frameY="-338" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty left0000" x="1373" y="0" width="1386" height="1215" frameX="-268" frameY="-291" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty left0001" x="2759" y="0" width="1378" height="1170" frameX="-276" frameY="-336" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty left0002" x="0" y="0" width="1373" height="1234" frameX="-281" frameY="-272" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty left0003" x="0" y="2417" width="1365" height="1164" frameX="-289" frameY="-342" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty left0004" x="2759" y="1170" width="1359" height="1165" frameX="-295" frameY="-341" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty left0005" x="2238" y="3581" width="1347" height="1116" frameX="-307" frameY="-390" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty left0006" x="1339" y="1234" width="1343" height="1173" frameX="-311" frameY="-333" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty left0007" x="0" y="1234" width="1339" height="1183" frameX="-315" frameY="-323" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty left0008" x="1365" y="2417" width="1337" height="1157" frameX="-317" frameY="-349" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty right0000" x="3585" y="3581" width="1097" height="1115" frameX="-646" frameY="-330" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty right0001" x="0" y="3581" width="1116" height="1123" frameX="-603" frameY="-322" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty right0002" x="5861" y="0" width="1119" height="1073" frameX="-594" frameY="-372" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty right0003" x="5861" y="4283" width="1118" height="1061" frameX="-591" frameY="-384" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty right0004" x="2454" y="4704" width="1122" height="1092" frameX="-586" frameY="-353" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty right0005" x="1116" y="3581" width="1122" height="1118" frameX="-584" frameY="-327" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty right0006" x="4294" y="4704" width="1124" height="1086" frameX="-579" frameY="-359" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty right0007" x="5781" y="5807" width="1124" height="1036" frameX="-578" frameY="-409" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty right0008" x="2859" y="5807" width="1124" height="1055" frameX="-575" frameY="-390" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty up0000" x="6980" y="4079" width="912" height="962" frameX="-508" frameY="-436" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty up0001" x="0" y="5807" width="934" height="1059" frameX="-497" frameY="-339" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty up0002" x="0" y="4704" width="949" height="1103" frameX="-487" frameY="-295" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty up0003" x="934" y="5807" width="957" height="1056" frameX="-483" frameY="-342" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty up0004" x="5861" y="3214" width="962" height="1069" frameX="-478" frameY="-329" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty up0005" x="6980" y="3071" width="963" height="1008" frameX="-477" frameY="-390" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty up0006" x="4815" y="5807" width="966" height="1037" frameX="-474" frameY="-361" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty up0007" x="0" y="6866" width="969" height="1029" frameX="-471" frameY="-369" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="whitty up0008" x="1934" y="6866" width="975" height="974" frameX="-465" frameY="-424" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>

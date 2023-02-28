@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "empty"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/empty",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "empty",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"hasWinIcon": false,
+	"sing_duration": 0,
+	"scale": 1
+}

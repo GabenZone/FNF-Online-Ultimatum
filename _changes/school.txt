@@ -22,6 +22,7 @@ mods/data/school/school-easy.json
 mods/data/school/school-getreal.json
 mods/data/school/school-hard.json
 mods/data/school/school.json
+mods/data/school/script.lua
 mods/B3 Remixed/characters/gf.json
 mods/B3 Remixed/stages/philly-b3.json
 mods/B3 Remixed/stages/philly-b3.lua

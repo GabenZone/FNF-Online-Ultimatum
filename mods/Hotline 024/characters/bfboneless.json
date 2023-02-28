@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				208,
+				102
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BOYFRIEND Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				140,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BOYFRIEND Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				211,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BOYFRIEND Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BOYFRIEND Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				121
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BOYFRIEND Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boneless",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

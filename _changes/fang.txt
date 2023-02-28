@@ -3,6 +3,7 @@ mods/data/fang/fang-getreal.json
 mods/data/fang/fang-hard.json
 mods/data/fang/fang.json
 mods/data/fang/mod.txt
+mods/data/fang/script.lua
 mods/B3 Remixed/characters/bf-pajamas.json
 mods/B3 Remixed/characters/p-gf-hungry-1.json
 mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.png

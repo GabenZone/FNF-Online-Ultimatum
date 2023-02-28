@@ -1,6 +1,5 @@
 mods/data/bushwhack/bushwhack.json
 mods/data/bushwhack/mod.txt
-mods/data/bushwhack/script.lua
 mods/Zardy/characters/bf-zar.json
 mods/Zardy/characters/zardyButDARK.json
 mods/Zardy/stages/ohshitTheSequal.json

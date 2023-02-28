@@ -1,0 +1,30 @@
+mods/data/satellite-picnic/mod.txt
+mods/data/satellite-picnic/satellite-picnic.json
+mods/Hotline 024/characters/niku-boo.json
+mods/Hotline 024/characters/boo.json
+mods/Hotline 024/characters/gf-zero.json
+mods/Hotline 024/stages/boo.json
+mods/Hotline 024/stages/boo.lua
+mods/Hotline 024/images/characters/NikkuSatPanicV1.png
+mods/Hotline 024/images/characters/NikkuSatPanicV1.xml
+mods/Hotline 024/images/characters/BooSatPanicV1.png
+mods/Hotline 024/images/characters/BooSatPanicV1.xml
+mods/Hotline 024/images/characters/empty.png
+mods/Hotline 024/images/characters/empty.xml
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/boo/Boo-1.png
+mods/Hotline 024/images/boo/Boo-2.png
+mods/Hotline 024/images/boo/Boo-3.png
+mods/Hotline 024/images/boo/Boo-4.png
+mods/Hotline 024/images/boo/Boo-5.png
+mods/Hotline 024/images/boo/Boo-6.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/characters/MATZURETRY.xml
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/satellite-picnic/Voices.ogg
+mods/songs/satellite-picnic/voices.ogg
+mods/songs/satellite-picnic/Inst.ogg
+mods/songs/satellite-picnic/inst.ogg

@@ -1,0 +1,26 @@
+mods/data/soda-disco-funk/events.json
+mods/data/soda-disco-funk/mod.txt
+mods/data/soda-disco-funk/soda-disco-funk.json
+mods/Hotline 024/characters/gogo.json
+mods/Hotline 024/characters/momo.json
+mods/Hotline 024/characters/gf-empty.json
+mods/Hotline 024/stages/momogogo.json
+mods/Hotline 024/stages/momogogo.lua
+mods/Hotline 024/images/characters/Gogo_Sprites.png
+mods/Hotline 024/images/characters/Gogo_Sprites.xml
+mods/Hotline 024/images/characters/Momo_Sprites.png
+mods/Hotline 024/images/characters/Momo_Sprites.xml
+mods/Hotline 024/images/characters/empty.png
+mods/Hotline 024/images/characters/empty.xml
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/momogogo/bg.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/characters/MATZURETRY.xml
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/soda-disco-funk/Voices.ogg
+mods/songs/soda-disco-funk/voices.ogg
+mods/songs/soda-disco-funk/Inst.ogg
+mods/songs/soda-disco-funk/inst.ogg

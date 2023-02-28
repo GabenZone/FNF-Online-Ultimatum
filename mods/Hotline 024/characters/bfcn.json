@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-6,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-18,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-47,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-44,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-12,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				-15,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				6,
+				12
+			],
+			"indices": [],
+			"adaptativeloop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ALT 2 BF LEFT"
+		},
+		{
+			"offsets": [
+				-13,
+				-49
+			],
+			"indices": [],
+			"adaptativeloop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ALT 2 BF DOWN"
+		},
+		{
+			"offsets": [
+				-62,
+				59
+			],
+			"indices": [],
+			"adaptativeloop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ALT 2 BF UP"
+		},
+		{
+			"offsets": [
+				-27,
+				31
+			],
+			"indices": [],
+			"adaptativeloop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ALT 2 BF RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ZERO BF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"hasWinIcon": false,
+	"sing_duration": 4,
+	"scale": 1
+}

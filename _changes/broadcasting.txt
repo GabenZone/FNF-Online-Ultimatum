@@ -1,0 +1,37 @@
+mods/data/broadcasting/broadcasting.json
+mods/data/broadcasting/mod.txt
+mods/Hotline 024/characters/bf.json
+mods/Hotline 024/characters/nikku.json
+mods/Hotline 024/characters/gf-distant.json
+mods/Hotline 024/stages/space.json
+mods/Hotline 024/stages/space.lua
+mods/Hotline 024/images/characters/BOYFRIENDTWO.png
+mods/Hotline 024/images/characters/BOYFRIENDTWO.xml
+mods/Hotline 024/images/characters/NikkuAssets.png
+mods/Hotline 024/images/characters/NikkuAssets.xml
+mods/Hotline 024/images/characters/GF_assets.png
+mods/Hotline 024/images/characters/GF_assets.xml
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/stage3/s1.png
+mods/Hotline 024/images/stage3/s2.png
+mods/Hotline 024/images/stage3/s3.png
+mods/Hotline 024/images/stage3/s4.png
+mods/Hotline 024/images/stage3/s5.png
+mods/Hotline 024/images/stage3/s6.png
+mods/Hotline 024/images/stage3/s7.png
+mods/Hotline 024/images/stage3/s8.png
+mods/Hotline 024/images/stage3/s9.png
+mods/Hotline 024/images/stage3/s10.png
+mods/Hotline 024/images/stage3/cutscene/bg.png
+mods/Hotline 024/images/stage3/cutscene/bgEnd.png
+mods/Hotline 024/images/stage3/cutscene/logo.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/characters/MATZURETRY.xml
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/broadcasting/Voices.ogg
+mods/songs/broadcasting/voices.ogg
+mods/songs/broadcasting/Inst.ogg
+mods/songs/broadcasting/inst.ogg

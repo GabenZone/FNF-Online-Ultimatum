@@ -1,0 +1,45 @@
+mods/data/astral-projection/astral-projection-easy.json
+mods/data/astral-projection/astral-projection.json
+mods/data/astral-projection/centernotes.lua
+mods/data/astral-projection/events.json
+mods/Hotline 024/characters/matzufuckedupandtwisted.json
+mods/Hotline 024/images/characters/matzutwo.png
+mods/Hotline 024/images/characters/matzutwo.xml
+mods/data/astral-projection/mod.txt
+mods/data/astral-projection/script.lua
+mods/Hotline 024/characters/bf.json
+mods/Hotline 024/characters/matzu.json
+mods/Hotline 024/characters/gf-empty.json
+mods/Hotline 024/stages/astral.json
+mods/Hotline 024/stages/astral.lua
+mods/Hotline 024/images/characters/BOYFRIENDTWO.png
+mods/Hotline 024/images/characters/BOYFRIENDTWO.xml
+mods/Hotline 024/images/characters/matzu.png
+mods/Hotline 024/images/characters/matzu.xml
+mods/Hotline 024/images/characters/empty.png
+mods/Hotline 024/images/characters/empty.xml
+mods/Hotline 024/custom_events/Dark.lua
+mods/Hotline 024/custom_events/Flash.lua
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/images/matzu/2/BG1.png
+mods/Hotline 024/images/matzu/2/desk2.png
+mods/Hotline 024/images/matzu/2/door.png
+mods/Hotline 024/images/matzu/2/ground.png
+mods/Hotline 024/images/matzu/2/idk.png
+mods/Hotline 024/images/matzu/2/messages.png
+mods/Hotline 024/images/matzu/BG.png
+mods/Hotline 024/images/matzu/DES.png
+mods/Hotline 024/images/matzu/PLAMTS.png
+mods/Hotline 024/images/matzu/2/plamts2.png
+mods/Hotline 024/images/blackscreen.png
+mods/Hotline 024/images/white.png
+mods/Hotline 024/images/characters/MATZURETRY.png
+mods/Hotline 024/images/characters/MATZURETRY.xml
+mods/Hotline 024/images/barText.png
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/astral-projection/Voices.ogg
+mods/songs/astral-projection/voices.ogg
+mods/songs/astral-projection/Inst.ogg
+mods/songs/astral-projection/inst.ogg

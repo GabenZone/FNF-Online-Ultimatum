@@ -1,6 +1,5 @@
 mods/data/foolhardy/foolhardy.json
 mods/data/foolhardy/mod.txt
-mods/data/foolhardy/script.lua
 mods/Zardy/characters/zardyMyBeloved.json
 mods/Zardy/stages/fuckyouZardyTime.json
 mods/Zardy/stages/fuckyouZardyTime.lua

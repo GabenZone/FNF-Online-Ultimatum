@@ -1,3 +1,4 @@
+mods/data/succ_d/effects.lua
 mods/data/succ_d/mod.txt
 mods/data/succ_d/succ_d-easy.json
 mods/data/succ_d/succ_d-getreal.json
